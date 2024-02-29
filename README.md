@@ -22,7 +22,7 @@ This project was for the software engineering course.
   3. The employer can:
        1. Search for candidates.
        2. Add or remove a vacancy.
-  4. The program can generate two Windows form reports one for the employer to display all the vacancies they posted and the other for all the users as it displays all the vacancies in the database.
+  4. The program can generate two Chrystal reports one for the employer to display all the vacancies they posted and the other for all the users as it displays all the vacancies in the database.
 
      ## The use case
      ![Wuzzuf-Use Case](https://github.com/Zeinab-Mohsen/Wuzzuf/assets/76008326/77e7a56a-7f00-402d-93b3-e02f4904fcd6)
